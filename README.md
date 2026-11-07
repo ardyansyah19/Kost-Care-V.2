@@ -1,4 +1,4 @@
-# Kost Care — manajemen kost 20 kamar (mobile-first)
+# Kost Care V.2
 
 Satu aplikasi untuk pemilik (admin) dan penghuni (portal HP). Node.js 22.13+ · Express · SQLite (bawaan Node, tanpa instalasi database).
 
